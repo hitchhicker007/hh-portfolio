@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.next_ui",
+               "sha256_cert_fingerprints": ["CE:55:54:97:8B:ED:6E:4D:2B:DF:50:13:4B:E7:F0:7D:DB:4E:6A:76:93:47:A3:A6:A3:9F:D3:36:D5:1C:3C:92"] }
+}]
